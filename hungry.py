@@ -12,6 +12,6 @@ if(thirsty)
 print("drink water")
 
 else
-print("do your homework")
+
 print("drink water")
 print("drink soda")
