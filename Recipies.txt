@@ -6,10 +6,8 @@ Kheer
 Pasta
 Chicken Fry
 <<<<<<< HEAD
-<<<<<<< HEAD
+Panner Butter Masala
 Panner Tikka
-=======
->>>>>>> parent of 7fb007f... Added Panner Butter MAsala
 =======
 >>>>>>> parent of 7fb007f... Added Panner Butter MAsala
 
