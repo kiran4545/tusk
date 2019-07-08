@@ -15,6 +15,7 @@ else
 
 print("drink water")
 print("drink soda")
+<<<<<<< HEAD
 
 
 print("drink beer")
@@ -26,3 +27,7 @@ print("drink lime water")
 print("drink beer")
 print("drink lime water")
 
+=======
+print("drink beer")
+print("drink lime water")
+>>>>>>> thirsty
