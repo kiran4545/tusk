@@ -5,14 +5,8 @@ Welcome to Raju Kitchen
 Kheer
 Pasta
 Chicken Fry
-<<<<<<< HEAD
-<<<<<<< HEAD
 Panner Tikka
-=======
->>>>>>> parent of 7fb007f... Added Panner Butter MAsala
-=======
->>>>>>> parent of 7fb007f... Added Panner Butter MAsala
-
+Panner Butter MAsala
 Beans
 Pizzas
 

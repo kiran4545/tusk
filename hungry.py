@@ -13,10 +13,4 @@ print("drink water")
 print("drink soda")
 print("drink beer")
 print("drink lime water")
-print("drink warm water")
 
-print("drink cold water")
-
-print("donot do anything")
-
-print("do anything")
