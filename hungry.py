@@ -11,3 +11,5 @@ else
 print("do your homework")
 print("drink water")
 print("drink soda")
+print("drink beer")
+print("drink lime water")
