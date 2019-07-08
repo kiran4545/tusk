@@ -14,4 +14,8 @@ print("drink soda")
 print("drink beer")
 print("drink lime water")
 print("drink warm water")
+<<<<<<< HEAD
 print("drink cold water")
+=======
+print("drink cold water")
+>>>>>>> parent of 72256d0... Added donot do anything
