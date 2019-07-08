@@ -15,13 +15,14 @@ else
 
 print("drink water")
 print("drink soda")
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
+
 print("drink beer")
 print("drink lime water")
->>>>>>> thirsty
-=======
+
 print("drink beer")
 print("drink lime water")
->>>>>>> thirsty
+
+print("drink beer")
+print("drink lime water")
+
