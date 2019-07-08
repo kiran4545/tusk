@@ -18,3 +18,5 @@ print("drink warm water")
 print("drink cold water")
 
 print("donot do anything")
+
+print("do anything")
