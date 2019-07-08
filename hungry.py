@@ -13,4 +13,5 @@ print("drink water")
 print("drink soda")
 print("drink beer")
 print("drink lime water")
+print("drink hot water")
 
